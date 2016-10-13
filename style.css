@@ -12,164 +12,164 @@ body {
 }
 
 #main {
-	width: 1400px;
-	background-image: url(img/hyperlight_bckg2.png);
-	background-repeat: no-repeat;
-	min-height: 837px;	
-	margin: 0 auto;
+  width: 1400px;
+  background-image: url(img/hyperlight_bckg2.png);
+  background-repeat: no-repeat;
+  min-height: 837px;	
+  margin: 0 auto;
 }
 
 #menu {
-	height: 112px;
-	padding-top: 55px;
-	padding-left: 0;
-	padding-right: 0;
-	margin: 0;
+  height: 112px;
+  padding-top: 55px;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0;
 }
 
 #inner-menu {
-	background-image: url(img/menu_bar2.png);
-	background-repeat: no-repeat;
-	padding-left: 473px;
-	padding-top: 2px;
-	margin: 0;
+  background-image: url(img/menu_bar2.png);
+  background-repeat: no-repeat;
+  padding-left: 473px;
+  padding-top: 2px;
+  margin: 0;
 }
 
 ul {
-	list-style-type: none;
-	color: rgb(245,210,210);
-	margin-top: 0;
-	margin-left: 0;
-	margin-right: 0;
-	margin-bottom: 0;
-	padding: 0;
+  list-style-type: none;
+  color: rgb(245,210,210);
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  padding: 0;
 }
 
 #menu li {
-	margin: 0;
-	float: left;
-	background-repeat: no-repeat;
+  margin: 0;
+  float: left;
+  background-repeat: no-repeat;
 }
 
 li span {
-	visibility: hidden;
+  visibility: hidden;
 }
 
 li:hover {
-	background-image: url(img/menu_drip2.png);
+  background-image: url(img/menu_drip2.png);
 }
 
 li:hover span {
-	visibility: visible;
+  visibility: visible;
 }
 
 .with-dot {
-	background-image: url(img/menu_dot.png);
-	font-size: 12px;
-	font-family: 'Orbitron', sans-serif;
+  background-image: url(img/menu_dot.png);
+  font-size: 12px;
+  font-family: 'Orbitron', sans-serif;
 }
 
 #menu-item-i {
-	width: 91px;
-	height: 40px;
-	line-height: 40px;
-	padding-left: 10px;
+  width: 91px;
+  height: 40px;
+  line-height: 40px;
+  padding-left: 10px;
 }
 
 #menu-item-wish {
-	width: 87px;
-	height: 70px;
-	line-height: 70px;
-	padding-left: 10px;
+  width: 87px;
+  height: 70px;
+  line-height: 70px;
+  padding-left: 10px;
 }
 
 #menu-item-it {
-	width: 183px;
-	height: 40px;
-	line-height: 40px;
-	padding-left: 10px;
+  width: 183px;
+  height: 40px;
+  line-height: 40px;
+  padding-left: 10px;
 }
 
 #menu-item-could {
-	width: 99px;
-	height: 25px;
-	line-height: 25px;
-	padding-left: 10px;
+  width: 99px;
+  height: 25px;
+  line-height: 25px;
+  padding-left: 10px;
 }
 
 #menu-item-last {
-	width: 54px;
-	height: 30px;
-	line-height: 30px;
-	padding-left: 10px;
+  width: 54px;
+  height: 30px;
+  line-height: 30px;
+  padding-left: 10px;
 }
 #menu-item-forever {
-	width: 55px;
-	height: 40px;
-	line-height: 40px;
-	padding-left: 50px;
-	font-family: 'Alien-Encounters-Regular';
-	font-size: 24px;
+  width: 55px;
+  height: 40px;
+  line-height: 40px;
+  padding-left: 50px;
+  font-family: 'Alien-Encounters-Regular';
+  font-size: 24px;
 }
 
 #bottom-panel {
-	font-family: 'Alien-Encounters-Regular';
-	font-size: 24px;
-	padding-top: 384px;
-	padding-left: 180px;
+  font-family: 'Alien-Encounters-Regular';
+  font-size: 24px;
+  padding-top: 384px;
+  padding-left: 180px;
 }
 
 .bottom-panel-col {
-	float: left;
+  float: left;
 }
 
 #bottom-panel-txt {
-	padding-left: 120px;
-	padding-top: 194px;
-	font-family: 'Orbitron', sans-serif;
+  padding-left: 120px;
+  padding-top: 194px;
+  font-family: 'Orbitron', sans-serif;
 }
 #bottom-panel-img {
-	width: 285px;
-	min-height: 289px;
-	margin-left: 196px;
+  width: 285px;
+  min-height: 289px;
+  margin-left: 196px;
 }
 
 #bottom-panel-hyper {
-	padding-top: 164px;
-	color: rgb(91,11,10);
+  padding-top: 164px;
+  color: rgb(91,11,10);
 }
 
 .alien-encounters-font {
-	font-family: 'Alien-Encounters-Regular';
-	color: rgb(74,61,79);
+  font-family: 'Alien-Encounters-Regular';
+  color: rgb(74,61,79);
 }
 
 .hyper-light-blue-font {
-	color: rgb(113,176,211);
+  color: rgb(113,176,211);
 }
 
 .hov-on-I {
-	background-image: url(img/th_0.png);
-	background-repeat: no-repeat;
+  background-image: url(img/th_0.png);
+  background-repeat: no-repeat;
 }
 
 .hov-on-wish {
-	background-image: url(img/th_1.png);
-	background-repeat: no-repeat;
+  background-image: url(img/th_1.png);
+  background-repeat: no-repeat;
 }
 .hov-on-it {
-	background-image: url(img/th_2.png);
-	background-repeat: no-repeat;
+  background-image: url(img/th_2.png);
+  background-repeat: no-repeat;
 }
 .hov-on-could {
-	background-image: url(img/th_3.png);
-	background-repeat: no-repeat;
+  background-image: url(img/th_3.png);
+  background-repeat: no-repeat;
 }
 .hov-on-last {
-	background-image: url(img/th_4.png);
-	background-repeat: no-repeat;
+  background-image: url(img/th_4.png);
+  background-repeat: no-repeat;
 }
 .hov-on-forever {
-	background-image: url(img/th_5.png);
-	background-repeat: no-repeat;
+  background-image: url(img/th_5.png);
+  background-repeat: no-repeat;
 }
